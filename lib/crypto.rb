@@ -46,7 +46,7 @@ return array3
 end
 
 #puts crypto_scrapper
-#puts crypto_scrapper[0][BTC]
+#puts crypto_scrapper[0]["BTC"]
 #Mettre une méthode pour chaque partie ralentit fortement le programme (.each encastrés)
 
 
