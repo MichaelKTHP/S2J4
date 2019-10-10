@@ -40,12 +40,13 @@ array3 << {"#{array[i]}" => array2[i]}
 i +=1
 end
 
-#puts array3[0]["BTC"]
+
 
 return array3
 end
 
-puts crypto_scrapper
+#puts crypto_scrapper
+#puts crypto_scrapper[0][BTC]
 #Mettre une méthode pour chaque partie ralentit fortement le programme (.each encastrés)
 
 
