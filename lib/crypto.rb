@@ -29,7 +29,7 @@ end
 
 
 
-#Création d'un dernier tableau contenant les élements des premiers tableau associés l'un à l'autre par un ashe"
+#Création d'un dernier tableau contenant les élements des deux premiers tableaux associés l'un à l'autre par un ashe"
 array3=[]
 
 
